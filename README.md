@@ -3,4 +3,4 @@
 
 estou estudando HTML e agora vou aprender a gerenciar repositórios.
 
-<a href="Desafios/d10/">Desafio 10<\a>
+<a href="Desafios/d10/">Desafio 10</a>
